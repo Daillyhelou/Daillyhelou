@@ -1,7 +1,7 @@
 Seja Bem Vindo 
 
 -Heloisa Degomar De Barros
-- Estou Estdando No Alura
+- Estou Estudando No Alura
 - Estou Me Desenvolvendo No JavaScript
 - Estou Utilizando Esse Espaço Para Me Organização e Compartilhamento Dos Meus Projetos Desenvolvidos
 - Entra Em Contato Comigo:
