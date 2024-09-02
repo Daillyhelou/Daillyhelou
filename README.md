@@ -1,16 +1,12 @@
-## Hi there 👋
+Seja Bem Vindo 
 
-<!--
-**Daillyhelou/Daillyhelou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Heloisa Degomar De Barros
+- Estou Estdando No Alura
+- Estou Me Desenvolvendo No JavaScript
+- Estou Utilizando Esse Espaço Para Me Organização e Compartilhamento Dos Meus Projetos Desenvolvidos
+- Entra Em Contato Comigo:
+-degomarheloisa12@gmail.com
+- 55 11 97138-4029
+- 
+- 
+-
